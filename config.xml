@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "https://staging.edwiser.org/demo36/"
+    xmlns:gap   = https://staging.edwiser.org/demo36/"
+    id          = "staging.edwiser.org"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Quartet Plus</name>
+
+  <description>
+      Quartet Plus.
+  </description>
+
+  <author href="https://QuartetPlus.com" email="WebMaster@quartetplus.com">
+      Webmaster.
+  </author>
+</widget>
